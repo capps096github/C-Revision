@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1629310809 source:d:\cephas c projects\c revision\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cephas.c"
+
+1629310718 d:\cephas c projects\c revision\cephas.c
+	<stdio.h>
+
